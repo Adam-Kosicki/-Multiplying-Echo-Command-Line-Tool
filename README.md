@@ -1,5 +1,4 @@
 # Multiplying-Echo-Command-Line-Tool
-C | Command-Line Arguments, Data Conversion, Flow Control, Error Handling
 
 ## Functionality
 
@@ -12,4 +11,3 @@ C | Command-Line Arguments, Data Conversion, Flow Control, Error Handling
 - If the input value is not a valid number, it ignores the input.
 - The program terminates when it finishes processing all input or when an invalid option or insufficient arguments are provided.
 
-The code is well-commented, explaining its purpose, how the options are processed, and the logic behind printing values to the output.
